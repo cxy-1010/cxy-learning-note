@@ -1,4 +1,4 @@
-ls                   显示目录下有什么内容
+
 git init           初始化仓库
 git add (.   *.) 将工作区的文件送到暂存区
 git status      git 仓库目前的状态

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git 常用命令总结.md",
+                "file": "电脑常用命令.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git 常用命令总结"
+              "title": "电脑常用命令"
             }
           }
         ]
@@ -185,11 +185,13 @@
   },
   "active": "1db4ea5f73436714",
   "lastOpenFiles": [
-    "git笔记.md",
     "Git 常用命令总结.md",
-    "Pasted image 20260302094953.png",
-    "Pasted image 20260302094928.png",
+    "电脑常用命令.md",
+    "未命名",
+    "创建链接.md",
     "欢迎.md",
-    "创建链接.md"
+    "git笔记.md",
+    "Pasted image 20260302094953.png",
+    "Pasted image 20260302094928.png"
   ]
 }
