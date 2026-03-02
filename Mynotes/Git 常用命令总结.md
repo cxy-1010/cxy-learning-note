@@ -1,5 +1,5 @@
-
 git init           初始化仓库
+git ls-files     查看暂存区的文件
 git add (.   *.) 将工作区的文件送到暂存区
 git status      git 仓库目前的状态
 git clone       复制仓库
@@ -8,3 +8,5 @@ git commit   将暂存区的文件送到本地仓库区
 ![[Pasted image 20260302094953.png]]
 git ls-files 看暂存区的内容
 git reflog  查看操作的命令
+git diff  (+两个版本号||+HEAD)  查看
+git rm +文件名  删除文件
