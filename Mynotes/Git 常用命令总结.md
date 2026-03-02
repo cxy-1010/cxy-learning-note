@@ -10,3 +10,7 @@ git ls-files 看暂存区的内容
 git reflog  查看操作的命令
 git diff  (+两个版本号||+HEAD)  查看
 git rm +文件名  删除文件
+echo 文件名 > .gitignore 将文件隐藏起来不会被提交（不能是版本库中的文件）
+git clone    克隆仓库
+git push remote branch 推送更新内容
+git pull       拉取更新内容
