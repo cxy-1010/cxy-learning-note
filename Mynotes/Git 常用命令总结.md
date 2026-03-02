@@ -17,3 +17,5 @@ git pull       拉取更新内容
 git remote add <远程仓库别名> < 远程仓库地址>
 git push -u <远程仓库名> <分支名>
 git remote -v 查看远程
+git branch ...创造分支
+git checkout/switch ...切换分支
